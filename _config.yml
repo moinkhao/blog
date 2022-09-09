@@ -41,16 +41,16 @@ footer-links:
   email: h539251932@qq.com
   facebook:
   flickr:
-  github: H539251932/blog
+  github: moinkhao/blog
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
-  telegram: terminus_9402
+  telegram: none
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
+  twitter: none
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
