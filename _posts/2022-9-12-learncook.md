@@ -9,14 +9,14 @@ is_sticky: false
 ---
 
 ## 1.选材做饭手册
-网站地址：https://cook.yunyoujun.cn/ <br>
-作者项目地址：https://github.com/YunYouJun/cook 
+网站地址：[https://cook.yunyoujun.cn/](https://cook.yunyoujun.cn/) <br>
+作者项目地址：[https://github.com/YunYouJun/cook](https://github.com/YunYouJun/cook) 
 ![看图](https://www.helloimg.com/images/2022/09/12/ZI43qP.png)
 > 使用方法：先选材料菜、肉和厨具等，系统自动推荐搭配菜品，在b站观看详细教程 
 
 ## 2.程序员做饭指南         
-网站地址：https://cook.aiurs.co/ <br>
-作者项目地址：https://github.com/Anduin2017/HowToCook
+网站地址：[https://cook.aiurs.co/](https://cook.aiurs.co/) <br>
+作者项目地址：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 ![image](https://www.helloimg.com/images/2022/09/12/ZI4eUn.png)
 ![image]https://www.helloimg.com/images/2022/09/12/ZI4tt0.png)
 ![image](https://www.helloimg.com/images/2022/09/12/ZI4xPR.png)
