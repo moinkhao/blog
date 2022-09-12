@@ -18,6 +18,6 @@ is_sticky: false
 网站地址：[https://cook.aiurs.co/](https://cook.aiurs.co/) <br>
 作者项目地址：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)
 ![image](https://www.helloimg.com/images/2022/09/12/ZI4eUn.png)
-![image]https://www.helloimg.com/images/2022/09/12/ZI4tt0.png)
+![image](https://www.helloimg.com/images/2022/09/12/ZI4tt0.png)
 ![image](https://www.helloimg.com/images/2022/09/12/ZI4xPR.png)
 > 使用方法：可以按分类找到自己想做的菜，进去可以看见详细的步骤，连份量都计算得精准到k，而且这个项目开发添加，自己有菜品也可以添加进去噢，非常推荐！
