@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  做饭教程项目推荐
+title:  程序员学习cook的平台
 date:   2022-9-12
 categories: sticky
 tags: cook
-description:程序员学习cook的平台
+description:
 is_sticky: false
 ---
 
